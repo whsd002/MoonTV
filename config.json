@@ -7,17 +7,17 @@
       "detail": "http://caiji.dyttzyapi.com"
     },
     "heimuer": {
-      "api": "https://hsckzy888.com/api.php/provide/vod",
-      "name": "黑1木耳",
-      "detail": "https://hsckzy888.com"
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "name": "黑木耳",
+      "detail": "https://heimuer.tv"
     },
     "ruyi": {
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "name": "如1意资源"
+      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "name": "如意资源"
     },
     "bfzy": {
-      "api": "https://91md.me/api.php/provide/vod",
-      "name": "暴1风资源"
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源"
     },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
